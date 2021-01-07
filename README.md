@@ -1,1 +1,1 @@
-# Ćwiczenia z gita 
+# Ćwiczenia z GIT'a
